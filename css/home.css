@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    color: black;
+}
+.hero{
+    background-color: aqua;
+    display: flex;
+    height: 500px;
+    
+}
